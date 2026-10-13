@@ -1,4 +1,3 @@
-[github_profile_README.md](https://github.com/user-attachments/files/33397175/github_profile_README.md)
 # Hi, I'm Vaibhav Kamboj 👋
 
 ### Software Engineer | Agentic AI & Backend Systems
