@@ -1,16 +1,57 @@
-## Hi there 👋
+[github_profile_README.md](https://github.com/user-attachments/files/33397175/github_profile_README.md)
+# Hi, I'm Vaibhav Kamboj 👋
 
-<!--
-**vaibhi99/vaibhi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Agentic AI & Backend Systems
 
-Here are some ideas to get you started:
+I'm a Computer Engineering undergraduate at **NIT Kurukshetra (2027)** with experience building agentic workflows, backend systems, and AI-powered developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked as a **Software Engineer Intern at Microsoft**, where I built agentic workflows for partner onboarding, LLM-powered code generation, and automated validation pipelines.
+
+I'm interested in building scalable software systems, exploring AI agents, and solving challenging engineering problems.
+
+---
+
+### 🚀 Featured Projects
+
+- **[MemMCP — Cross-Tool AI Memory Server](https://github.com/vaibhi99/MemMCP)**  
+  Built an MCP server that provides persistent memory across AI tools, using semantic retrieval, vector embeddings, and ChromaDB.
+
+- **[Eventra — Event Booking Web App](https://github.com/vaibhi99/Event-Booking-WebApp)**  
+  Developed an event booking platform with role-based access control, JWT authentication, geospatial event discovery, and real-time communication using Socket.IO.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript, TypeScript, C#, SQL
+
+**Backend & Web:** Node.js, Express.js, REST APIs, React.js, .NET 8
+
+**AI & GenAI:** Model Context Protocol (MCP), FastMCP, LangChain, LangGraph, RAG, Embeddings
+
+**Databases & Cloud:** PostgreSQL, MongoDB, MySQL, ChromaDB, Azure
+
+**Developer Tools:** Git, GitHub, VS Code, Postman, Bruno, LangSmith
+
+---
+
+### 🎓 Education
+
+**National Institute of Technology, Kurukshetra**  
+B.Tech in Computer Engineering | 2023–2027
+
+---
+
+### 🏆 Achievements
+
+- Solved 1,200+ problems across LeetCode, CodeChef, and other platforms.
+- Secured 1st position in Techspardha's Astrohunt event.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-kamboj-b89278291/)
+- 🧑‍💻 [LeetCode](https://leetcode.com/u/vaibhi02/)
+- 🐙 [GitHub](https://github.com/vaibhi99)
+- 📧 [Email](mailto:vaibhavkamboj100@gmail.com)
