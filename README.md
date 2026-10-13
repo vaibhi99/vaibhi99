@@ -1,12 +1,12 @@
-# Hi, I'm Vaibhav Kamboj 👋
+### Hey, I'm Vaibhav 👋
 
-### Software Engineer | Agentic AI & Backend Systems
+Curious by nature, engineer by choice.
 
-I'm a Computer Engineering undergraduate at **NIT Kurukshetra (2027)** with experience building agentic workflows, backend systems, and AI-powered developer tools.
+I'm pursuing Computer Engineering at **NIT Kurukshetra** and had the opportunity to work as a **Software Engineer Intern at Microsoft**.
 
-Previously, I worked as a **Software Engineer Intern at Microsoft**, where I built agentic workflows for partner onboarding, LLM-powered code generation, and automated validation pipelines.
+I enjoy turning complex ideas into working software — from backend systems and distributed workflows to AI-powered developer tools.
 
-I'm interested in building scalable software systems, exploring AI agents, and solving challenging engineering problems.
+This is where I experiment, build, break things, learn, and occasionally come up with something worth sharing. 🚀
 
 ---
 
