@@ -1,4 +1,4 @@
-### Hey, I'm Vaibhav 👋
+### Hey, I'm Vaibhav Kamboj 👋
 
 Curious by nature, engineer by choice.
 
