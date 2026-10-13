@@ -41,16 +41,7 @@ B.Tech in Computer Engineering | 2023–2027
 
 ---
 
-### 🏆 Achievements
-
-- Solved 1,200+ problems across LeetCode, CodeChef, and other platforms.
-- Secured 1st position in Techspardha's Astrohunt event.
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-kamboj-b89278291/)
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/vaibhi02/)
-- 🐙 [GitHub](https://github.com/vaibhi99)
 - 📧 [Email](mailto:vaibhavkamboj100@gmail.com)
